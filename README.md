@@ -1,16 +1,21 @@
 # Animated Template Site with Third Party JS
 
 ## About The Project
-This is an Animated Landing Page Template, using AOS library.
+This is an Animated Landing Page Template, using AOS and Tailwind Library. You can use Tailwind Templates in different formats. I've used the HTML version for this project, but there are Vue, React and Angular versions as well, which I will upload later. Genrally I would not style in an HTML file, but I left the template as it and focused on demonstrating the animation aspects, also its time consuming to seperate, so I'll update the version, time premitting. 
+With Animate On Scroll, you can bring life to your simple landing page. 
+You can still use this for your projects or simply learn the methods.
+You can also see in the second preview, that it's mobile responsive.
+
 
 ## Preview
 
-![Initial view](media/image1.png)
-![Final view](media/image2.png)
+![Initial view](media/image1.gif)
+![Final view](media/image2.gif)
 
 ## Built With
 
 - [Animate On Scroll](https://michalsnik.github.io/aos/)
+- [AOS documentation](https://github.com/michalsnik/aos)
 - [Creative Tim-Tailwind CSS](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 - [Random User API](https://randomuser.me/photos)
 - [Unsplash Images](https://unsplash.com/)
